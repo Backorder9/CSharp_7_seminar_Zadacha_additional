@@ -28,7 +28,7 @@ Console.WriteLine();
 Console.Write("Введите количество строк массива целых чисел ~Змейка~: ");
 int m = int.Parse(Console.ReadLine());
 Console.WriteLine();
-Console.Write("Введите количество столбцов массива массива целых чисел ~Змейка~: ");
+Console.Write("Введите количество столбцов массива целых чисел ~Змейка~: ");
 int n = int.Parse(Console.ReadLine());
 Console.WriteLine();
 
